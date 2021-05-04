@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bắn cá - rùa, nhận xu</string>
+
+    <string name="what_is_shooting">Game Bắn Cá là gì?</string>
+    <string name="shooting_desc">Có nghĩa là dùng tiền thật để mua đạn và dùng số đạn đó để bắn cá. Sau khi hạ gục những con cá đó, bạn sẽ nhận được số điểm tương ứng với con cá mà bạn giết được.
+    Khi bạn nhận được điểm số lớn, bạn có thể đổi nó thành tiền mặt và nhận nó bất cứ lúc nào bạn muốn. Do đó, trò chơi bắn cá là trò trực tuyến trên bàn cờ bạc bằng tiền thật.
+    Trò chơi này phổ biến đến mức không một tay cờ bạc sành sỏi nào biết đến.</string>
+
+    <string name="history">LỊCH SỬ</string>
+    <string name="history_desc">
+        Chơi trên bàn
+        Người chơi sử dụng cần điều khiển để bắn những con cá  đang "bơi" xung quanh trên một màn hình lớn Mỗi con cá có tỷ lệ cược riêng và bạn sẽ được thưởng mỗi khi
+        bắn được một con cá.Bạn bắn được càng nhiều, bạn càng kiếm được nhiều điểm và bạn được trả tiền càng cao.
+        Trên điện thoại
+        Người chơi chạm vào màn hình để nhắm vào những con cá bơi xung quanh trên màn hình. Mỗi con cá có tỷ lệ cược riêng và bạn sẽ được thưởng mỗi khi bắn được một con cá.
+        Bắn được càng nhiều, bạn càng kiếm được nhiều điểm và bạn được trả tiền càng cao.
+    </string>
+
+</resources>

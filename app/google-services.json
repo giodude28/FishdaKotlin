@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98733290449",
+    "project_id": "bn-c---ra-nhn-xu",
+    "storage_bucket": "bn-c---ra-nhn-xu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98733290449:android:9c617dd68dfe2ecdcae6f0",
+        "android_client_info": {
+          "package_name": "io.giodude.fishdakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98733290449-fou59ffvaqspmr8e2i2cveujl264nrdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvfZh4JdX3yLUOn9lHtENy9cbX9aGx9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98733290449-fou59ffvaqspmr8e2i2cveujl264nrdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
